@@ -1,1 +1,1 @@
-# Titanic_Survival_Classification
+This repository is for my work on a Kaggle Titanic competition. In this competition participants were given training and testing files of people from the Titanic and information about them, including whether they survived or not (1, or 0, respectively). The testing file did not have the survival of the passengers listed. The goal is to use the training data to predict whether the passengers of the testing data survived or not. I used random forest classification and achieved more than 70% accuracy in my predictions.
